@@ -1,0 +1,84 @@
+.background{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(241, 208, 208);
+}
+.bodies{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 10px;
+}
+.sk{
+    background-color: rgb(224, 165, 165);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.295);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 60px;
+    padding-top: 20px;
+}
+.sky{
+    background-color: rgb(241, 208, 208);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.295);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 60px;
+    padding-top: 20px;
+}
+.skil{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    row-gap: 40px;
+}
+.skills{
+    background-color: rgb(241, 208, 208);
+    border-color: black;
+    border-style: solid;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.295);
+    padding: 20px;
+    border-radius: 25px;
+    column-gap: 60px;
+    width: 200px;
+    height: 140px;
+}
+.edu{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    row-gap: 40px;
+}
+.educa{
+    background-color: rgb(241, 208, 208);
+    border-color: black;
+    border-style: solid;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.295);
+    padding: 20px;
+    border-radius: 25px;
+    column-gap: 60px;
+    width: 200px;
+    height: 140px;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: rgb(221, 221, 221);
+}
+.button:link{
+    color: gray;
+}
+.button:visited{
+    color: gray;
+}
+.button:hover{
+    color: goldenrod;
+}

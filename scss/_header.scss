@@ -1,0 +1,60 @@
+.meheader{
+    width: 99%;
+    padding: 10px;
+    background-color: rgb(224, 165, 165);
+}
+.nutriheader{
+    width: 99%;
+    padding: 10px;
+    background-color: rgb(95, 151, 203);
+}
+.timeheader{
+    width: 99%;
+    padding: 10px;
+    background-color: rgb(54, 92, 157);
+}
+.indexheader{
+    width: 97%;
+    position: fixed;
+    top: 30px;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+li{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.juancito:link{
+    color: black;
+}
+.juancito:visited{
+    color: black;
+}
+.juancito:hover{
+    color: black;
+}
+.headleft{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    column-gap: 50px;
+}
+.headright{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    column-gap: 50px;
+}
+.links:link{
+    color: gray;
+}
+.links:visited{
+    color: gray;
+}
+.links:hover{
+    color: goldenrod;
+}

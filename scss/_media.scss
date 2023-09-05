@@ -1,0 +1,230 @@
+@media(max-width: 1324px) {
+    h1{
+        font-size: 2.2rem;
+    }
+    h2{
+        font-size: 1.5rem;
+    }
+    h3{
+        font-size: 1rem;
+    }
+    h4{
+        font-size: 1.2rem;
+    }
+    h5{
+        font-size: 1.4rem;
+    }
+    li{
+        font-size: 1.2rem;
+    }
+    footer{
+        font-size: 1.3rem;
+    }
+    .pfp{
+        height: 240px;
+    }
+    .skills{
+        width: 150px;
+        height: 140px;
+    }
+    .educa{
+        width: 150px;
+        height: 140px;
+    }
+    .ject{
+        height: 320px;
+        width: 250px;
+    }
+    .propic{
+        height: 140px;
+    }
+    .diet{
+        height: 140px;
+    }
+}
+@media(max-width: 724px) {
+    h1{
+        font-size: 1.8rem;
+    }
+    h2{
+        font-size: 1.2rem;
+    }
+    h3{
+        font-size: 0.8rem;
+    }
+    h4{
+        font-size: 1rem;
+    }
+    h5{
+        font-size: 1.1rem;
+    }
+    li{
+        font-size: 0.8rem;
+    }
+    footer{
+        font-size: 1rem;
+    }
+    .button{
+        font-size: 1.2rem;
+    }
+    .headleft{
+        column-gap: 30px;
+    }
+    .headright{
+        column-gap: 15px;
+    }
+    .pfp{
+        height: 200px;
+    }
+    .skills{
+        width: 120px;
+        height: 120px;
+    }
+    .educa{
+        width: 120px;
+        height: 120px;
+    }
+    .pro{
+        position: relative;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 30px;
+    }
+    .ject{
+        position: relative;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        width: 100%;
+        height: 220px;
+    }
+    .box{
+        font-size: 0.8rem;
+    }
+    .boxt{
+        font-size: 0.8rem;
+    }
+    .boxr{
+        font-size: 0.8rem;
+    }
+    .propic{
+        height: 100px;
+        margin-bottom: 20px;
+    }
+    .diet{
+        height: 140px;
+    }
+    .npic{
+        grid-area: npic;
+        align-self: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .ntext{
+        grid-area: ntext;
+        align-self: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .dieta{
+        display: grid;
+        grid-template-areas: 
+        "ntext ntext"
+        "npic npic";
+    }
+}
+@media(max-width: 524px) {
+    h1{
+        font-size: 1.6rem;
+    }
+    h2{
+        font-size: 1rem;
+    }
+    h3{
+        font-size: 0.7rem;
+    }
+    h4{
+        font-size: 0.9rem;
+    }
+    h5{
+        font-size: 1rem;
+    }
+    li{
+        font-size: 0.7rem;
+    }
+    footer{
+        font-size: 0.9rem;
+    }
+    .button{
+        font-size: 1rem;
+    }
+    .headleft{
+        column-gap: 15px;
+    }
+    .headright{
+        column-gap: 15px;
+    }
+    .pfp{
+        height: 180px;
+    }
+    .skills{
+        width: 160px;
+        height: 70px;
+    }
+    .educa{
+        width: 160px;
+        height: 70px;
+    }
+    .pro{
+        position: relative;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 30px;
+    }
+    .ject{
+        position: relative;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        width: 100%;
+        height: 220px;
+    }
+    .box{
+        font-size: 0.8rem;
+    }
+    .boxt{
+        font-size: 0.8rem;
+    }
+    .boxr{
+        font-size: 0.8rem;
+    }
+    .propic{
+        height: 100px;
+        margin-bottom: 20px;
+    }
+    .diet{
+        height: 140px;
+    }
+    .npic{
+        grid-area: npic;
+        align-self: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .ntext{
+        grid-area: ntext;
+        align-self: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .dieta{
+        display: grid;
+        grid-template-areas: 
+        "ntext ntext"
+        "npic npic";
+    }
+}
